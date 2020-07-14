@@ -6,7 +6,7 @@
 //  Copyright © 2020 주성호. All rights reserved.
 //
 //  https://www.acmicpc.net/problem/1756
-//  BOJ1756 피자 굽기 : 배열, 구현, 이분탐색
+//  BOJ1756 피자 굽기 : 배열, 구현, 이분탐색, 시물레이션
 
 #include <iostream>
 #include <algorithm>
