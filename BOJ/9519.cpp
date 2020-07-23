@@ -6,7 +6,7 @@
 //  Copyright © 2020 주성호. All rights reserved.
 //
 //  https://www.acmicpc.net/problem/9519
-//  BOJ9519 졸려 : 구현, 반복문
+//  BOJ9519 졸려 : 구현, 반복문 
 
 #include <iostream>
 #include <vector>
