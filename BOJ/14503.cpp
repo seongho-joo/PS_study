@@ -6,7 +6,7 @@
 //  Copyright © 2020 주성호. All rights reserved.
 //
 //  https://www.acmicpc.net/problem/14503
-//  BOJ14503 : 시뮬레이션, 구현
+//  BOJ14503 로봇 청소기 : 시뮬레이션, 구현
 
 #include <iostream>
 #include <queue>
