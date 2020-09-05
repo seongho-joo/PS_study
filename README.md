@@ -1,10 +1,9 @@
 ### PS_study - 코딩테스트 준비 및 알고리즘 공부
 
-BaekJoon Online Judge
+[BaekJoon Online Judge](https://www.acmicpc.net/user/jsh8681)
 -----
-[id : jsh8681](https://www.acmicpc.net/user/jsh8681)  
-* 랭킹 : 2319  
-* 맞은 문제 : 361  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jsh8681)](https://solved.ac/jsh8681)  
+
 
 | 문제 | 분류 | 코드 |
 |----| ---  | --- |
