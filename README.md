@@ -9,3 +9,4 @@ BaekJoon Online Judge
 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | 구현, 브루트포스 알고리즘 | [12100.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/12100.cpp)|
 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)| 구현, 그래프 이론, 그래프 탐색, 브루트포스 알고리즘, 너비 우선 탐색 |[13460.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/13460.cpp)|
 |[명령 프롬프트](https://www.acmicpc.net/problem/1032)| 구현, 문자열 | [1032.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1032.cpp)|
+|[대회 or 인턴](https://www.acmicpc.net/problem/2875)| 구현, 수학 | [2875.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2875.cpp)|
