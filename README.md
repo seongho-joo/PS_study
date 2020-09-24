@@ -14,3 +14,4 @@ BaekJoon Online Judge
 |[저작권](https://www.acmicpc.net/problem/2914)|구현, 수학, 사칙연산|[2914.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2914.cpp)|
 |[빙산](https://www.acmicpc.net/problem/2573)|구현, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|[2573.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2573.cpp)|
 |[최단경로](https://www.acmicpc.net/problem/1753)|그래프 이론, 다익스트라|[1753.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1753.cpp)|
+|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|그래프 이론, 다익스트라|[1916.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1916.cpp)|
