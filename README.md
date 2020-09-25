@@ -21,3 +21,5 @@ BaekJoon Online Judge
 |[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|[11724.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/11724.cpp)|
 |[음식물 피하기](https://www.acmicpc.net/problem/1743)|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|[1743.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1743.cpp)|
 |[스타트링크](https://www.acmicpc.net/problem/5014)|그래프 이론, 그래프 탐색, 너비 우선 탐색|[5014.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/5014.cpp)|
+|[LCS](https://www.acmicpc.net/problem/9251)|다이나믹 프로그래밍, 문자열|[9251.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/9251.cpp)|
+|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|수학, 그리디, 문자열, 파싱|[1541.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1541.cpp)|
