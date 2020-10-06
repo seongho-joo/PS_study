@@ -25,3 +25,4 @@ BaekJoon Online Judge
 |[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|수학, 그리디, 문자열, 파싱|[1541.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1541.cpp)|
 |[접미사 배열](https://www.acmicpc.net/problem/11656)|문자열, 정렬|[11656.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/11656.cpp)|
 |[ROT13](https://www.acmicpc.net/problem/11655)|문자열|[11655.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/11655.cpp)|
+|[팰린드롬?](https://www.acmicpc.net/problem/10942)|다이나믹 프로그래밍, 문자열|[10942.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10942.cpp)|
