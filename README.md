@@ -26,3 +26,4 @@ BaekJoon Online Judge
 |[접미사 배열](https://www.acmicpc.net/problem/11656)|문자열, 정렬|[11656.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/11656.cpp)|
 |[ROT13](https://www.acmicpc.net/problem/11655)|문자열|[11655.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/11655.cpp)|
 |[팰린드롬?](https://www.acmicpc.net/problem/10942)|다이나믹 프로그래밍, 문자열|[10942.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10942.cpp)|
+|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|자료 구조, 이분 탐색, 해시를 사용한 집합과 맵|[10816.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10816.cpp)|
