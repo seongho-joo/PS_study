@@ -28,3 +28,4 @@ BaekJoon Online Judge
 |[팰린드롬?](https://www.acmicpc.net/problem/10942)|다이나믹 프로그래밍, 문자열|[10942.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10942.cpp)|
 |[숫자 카드 2](https://www.acmicpc.net/problem/10816)|자료 구조, 이분 탐색, 해시를 사용한 집합과 맵|[10816.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10816.cpp)|
 |[줄 세우기](https://www.acmicpc.net/problem/2252)|그래프 이론, 위상 정렬|[2252.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2252.cpp)|
+|[알고스팟](https://www.acmicpc.net/problem/1261)|그래프 이론, 자료 구조, 다익스트라, 우선순위 큐|[1261.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1261.cpp)|
