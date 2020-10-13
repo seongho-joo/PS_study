@@ -29,3 +29,4 @@ BaekJoon Online Judge
 |[숫자 카드 2](https://www.acmicpc.net/problem/10816)|자료 구조, 이분 탐색, 해시를 사용한 집합과 맵|[10816.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10816.cpp)|
 |[줄 세우기](https://www.acmicpc.net/problem/2252)|그래프 이론, 위상 정렬|[2252.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2252.cpp)|
 |[알고스팟](https://www.acmicpc.net/problem/1261)|그래프 이론, 자료 구조, 다익스트라, 우선순위 큐|[1261.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1261.cpp)|
+|[AC](https://www.acmicpc.net/problem/5430)|구현, 자료구조, 덱|[5430.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/5430.cpp)|
