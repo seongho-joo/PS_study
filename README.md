@@ -31,3 +31,4 @@ BaekJoon Online Judge
 |[알고스팟](https://www.acmicpc.net/problem/1261)|그래프 이론, 자료 구조, 다익스트라, 우선순위 큐|[1261.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1261.cpp)|
 |[AC](https://www.acmicpc.net/problem/5430)|구현, 자료구조, 덱|[5430.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/5430.cpp)|
 |[키로거](https://www.acmicpc.net/problem/5397)|구현, 자료구조, 덱|[5397.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/5397.cpp)|
+|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|자료 구조, 트리를 사용한 집합과 맵, 해시를 사용한 집합과 맵|[1620.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1620.cpp)|
