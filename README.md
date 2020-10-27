@@ -35,3 +35,4 @@ BaekJoon Online Judge
 |[숨바꼭질](https://www.acmicpc.net/problem/1697)|그래프 이론, 그래프 탐색, 너비 우선 탐색|[1697.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1697.cpp)|
 |[절댓값 힙](https://www.acmicpc.net/problem/11286)|구현, 자료 구조, 우선순위 큐|[11286.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/11286.cpp)|
 |[영역 구하기](https://www.acmicpc.net/problem/2583)|그래프 이론, 그래프 탐색, 정렬, 깊이 우선 탐색|[2583.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2583.cpp)|
+|[쇠막대기](https://www.acmicpc.net/problem/10799)|자료구조, 스택|[10799.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10799.cpp)|
