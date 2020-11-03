@@ -9,7 +9,6 @@
 //  BOJ2010 플러그 : 수학, 구현, 사칙연산
 
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
@@ -18,19 +17,11 @@ int main() {
     int N, inp, res = 0;
     cin >> N;
     
-    vector<int> powerStrip(N);
-    
     for(int i = 0; i < N; i++) {
-        cin >> powerStrip[i];
-        if(i != 0) {
-            powerStrip[i - 1] -= 1;
-        }
+        cin >> inp;
+        res += inp;
     }
-    
-    for(auto i : powerStrip) {
-        res += i;
-    }
-    
+    res -= (N - 1);
     cout << res << "\n";
     return 0;
 }
