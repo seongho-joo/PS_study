@@ -38,3 +38,4 @@ BaekJoon Online Judge
 |[쇠막대기](https://www.acmicpc.net/problem/10799)|자료구조, 스택|[10799.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/10799.cpp)|
 |[플러그](https://www.acmicpc.net/problem/2010)|수학, 구현, 사칙연산|[2010.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/2010.cpp)|
 |[인구 이동](https://www.acmicpc.net/problem/16234)|구현, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 시뮬레이션|[16234.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/16234.cpp)|
+|[저항](https://www.acmicpc.net/problem/1076)|구현|[1076.cpp](https://github.com/seongho-joo/PS_study/blob/master/BOJ/1076.cpp)|
