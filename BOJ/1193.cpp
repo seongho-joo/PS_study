@@ -1,49 +1,39 @@
-/**
- * https://www.acmicpc.net/problem/1193
- * BOJ1193 - 분수찾기
- */
+
+//
+//  1193.cpp
+//  test
+//
+//  Created by 주성호 on 2021/06/07.
+//  Copyright © 2021 주성호. All rights reserved.
+//
+
+// https://www.acmicpc.net/problem/1193
+// BOJ1193 분수찾기 : 수학, 구현
+
 #include <iostream>
 using namespace std;
 
-#define fastIO() ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL)
-
 int main() {
-    fastIO();
-
-    int n;
-    cin >> n;
-
-    if (n == 1) cout << "1/1\n";
-
-    int sum = 1, num = 1;
-    long long cnt = 0;
-
-    while (true) {
-        sum++;
-        cnt += num++;
-        if (cnt >= n) break;
+    int inp = 0;
+    cin >> inp;
+    
+    if(inp == 1) {
+        cout << "1/1\n";
+        return 0;
     }
-
-    int parent, child;
-    child = parent = 1;
-
-    if (sum % 2 == 1)
-        child = sum - 1;
-    else
-        parent = sum - 1;
-
-    while (cnt != n) {
-        if (sum % 2 == 1) {
-            parent++;
-            child--;
-        } else {
-            parent--;
-            child++;
-        }
-        cnt--;
+    int i = 1;
+    int diff = 0;
+    
+    for(int sum = 0; sum + i < inp; i += 1) {
+        sum += i;
+        diff = inp - sum;
     }
-
-    cout << child << '/' << parent;
-
+    
+    if(i % 2 == 1) {
+        cout << i - diff + 1 << '/' << diff << "\n";
+    } else {
+        cout << diff << "/" << i - diff + 1 << "\n";
+    }
+    
     return 0;
 }
