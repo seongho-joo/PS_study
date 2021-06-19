@@ -13,19 +13,28 @@ using namespace std;
 
 vector<int> team;
 
-double getCost(int L, int N) {
-    double avgCost = 0.0, minValue = 987654321.0;
-    for(int i = L; i <= N; i += 1) {
-        for(int j = 0; j <= N - i; j += 1) {
-            double sumValue = 0.0;
-            for(int k = j; k < i + j; k += 1) {
-                sumValue += team[k];
-            }
-            avgCost = sumValue / i;
-            minValue = minValue < avgCost ? minValue : avgCost;
+double solution(int L, int N) {
+    double ret = 987654321.0;
+    /**
+     1 2 3 1 2 3
+     첫번째 : (1, 2, 3), (1, 2, 3, 1), (1, 2, 3, 1, 2), (1, 2, 3, 1, 2, 3)
+     두번쨰 : (2, 3, 1), (2, 3, 1, 2), (2, 3, 1, 2, 3)
+     세번쨰 : (3, 1, 2), (3, 1, 2, 3)
+     네번쨰 : (1, 2, 3)
+     이런 식으로 풀면 3중 for문을 사용할 필요없고 간결하게 풀 수 있음
+     */
+    for (int i = 0, j; i <= N - L; i += 1) {
+        int sum = 0, count = 1;
+        
+        for(j = i; j < i + L - 1; j += 1, count += 1) {
+            sum += team[j];
+        }
+        for(; j < N; j += 1, count += 1) {
+            sum += team[j];
+            ret = ret < ((double)sum / count);
         }
     }
-    return minValue;
+    return ret;
 }
 
 int main() {
@@ -41,7 +50,8 @@ int main() {
             cin >> cost;
             team.push_back(cost);
         }
-        printf("%.8lf\n", getCost(L, N));
+        double res = solution(L, N);
+        printf("%.8lf\n", res);
     }
     return 0;
 }
