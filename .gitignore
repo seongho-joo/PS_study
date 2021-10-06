@@ -3,3 +3,5 @@ project.pbxproj
 test/
 BOJ/test.cpp
 programmers.cpp
+solution.js
+**/.DS_Store
