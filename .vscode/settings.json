@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "*.json": true,
+    "*.xcodeproj": true,
+    "node_modules": true
+  }
+}
